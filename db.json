@@ -5,9 +5,9 @@
     { "id": 3, "title": "Post 3" }
   ],
 "novels": [
-    { "id": 1, "Monk who Sold his Ferrari": "Robin Sharma" },
-    { "id": 2, "Never go back": "Lee Child" },
-    { "id": 3, "Gone Tomorrow": "Lee Child" }
+    { "id": 1, "name": "Monk who Sold his Ferrari", "author": "Robin Sharma" },
+    { "id": 2, "name": "Never go back", "author": "Lee Child" },
+    { "id": 3, "name": "Gone Tomorrow", "author": "Lee Child" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
